@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "webcrud-72efc": {
+      "hosting": {
+        "WebCRUD": [
+          "webcrud-72efc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "webcrud-72efc"
+  }
+}
